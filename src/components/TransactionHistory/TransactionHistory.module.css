@@ -1,0 +1,21 @@
+.transactionHistory {
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.thead {
+  background-color: rgb(95, 95, 192);
+  color: white;
+}
+.tbody {
+  background-color: gainsboro;
+  color: rgb(17, 17, 17);
+}
+
+.tr,
+.th {
+  width: 100px;
+  padding: 10px;
+  border: 1px solid #2a2a2a;
+}
