@@ -53,5 +53,9 @@
 .name {
   font-size: 30px;
   color: black;
+  text-align: center;
+  vertical-align: middle;
+  margin-bottom: auto;
+  margin-top: auto;
   /* text-align: end; */
 }
